@@ -55,9 +55,6 @@ node index.js
 ```
 This command will upload a sample JSON file to IPFS using the Spheron Storage SDK, fetch it, and display the uploaded data in the console.
 
-## Medium Article
-For a detailed guide and explanation of this example, please refer to the accompanying Medium article: [Link to Your Medium Article](https://medium.com/@aayushgiri1234/exploring-metadata-on-the-decentralized-web-the-spheron-storage-guide-f1126d33f0a4)
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
