@@ -33,14 +33,12 @@ git clone https://github.com/spheronFdn/metadata-uploader.git
 2. Navigate to the repository directory:
 
 ```bash
-Copy code
 cd spheron-storage-example
 ```
 
 3. Install the required dependencies:
 
 ```bash
-Copy code
 npm install
 ```
 
@@ -50,7 +48,6 @@ npm install
 To run the example code, execute the following command:
 
 ```bash
-Copy code
 node index.js
 ```
 This command will upload a sample JSON file to IPFS using the Spheron Storage SDK, fetch it, and display the uploaded data in the console.
