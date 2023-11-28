@@ -27,7 +27,7 @@ You'll also need a Spheron authentication token. You can obtain this token by si
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/spheron-storage-example.git
+git clone https://github.com/spheronFdn/metadata-uploader.git
  ```
 
 2. Navigate to the repository directory:
